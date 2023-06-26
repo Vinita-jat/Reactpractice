@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "name": "Vinita Jat",
+      "email": "vinitajat@gmail.com",
+      "city": "Indore",
+      "phone": 2222
+    },
+    {
+      "id": 2,
+      "name": "Anuj jat",
+      "email": "anujjat@gmail.com",
+      "city": "Bagod",
+      "phone": 1111
+    },
+    {
+      "id": 3,
+      "name": "Sakshi Jat",
+      "email": "shakshijat@gmail.com",
+      "city": "Indore",
+      "phone": 33333
+    },
+    {
+      "id": 4,
+      "name": "Aditi",
+      "email": "aditi@gmail.com",
+      "city": "pune",
+      "phone": 5554
+    },
+    {
+      "id": 5,
+      "name": "Meenal jain",
+      "email": "meenaljain@gmail.com",
+      "city": "jaipur",
+      "phone": 22299872
+    },
+    {
+      "name": "Anmol jat",
+      "email": "anmoljat@gmail.com",
+      "city": "Ujjen",
+      "phone": 45564,
+      "id": 6
+    },
+    {
+      "name": "AAA",
+      "email": "aaa@gmail.com",
+      "city": "Pune",
+      "phone": "4333455",
+      "id": 8
+    },
+    {
+      "name": "vvvvv",
+      "email": "vvv@gmail.com",
+      "city": "pune",
+      "phone": "4555",
+      "id": 10
+    }
+  ]
+}
